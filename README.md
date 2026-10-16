@@ -6,10 +6,16 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadfazil1/) [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadil023dil@gmail.com) [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fazil._25)
 
-
 </div>
 
 > Network Engineer & Security Specialist with hands-on experience in Network Infrastructure, Enterprise Web Systems, Vulnerability Assessment, and Infrastructure Monitoring. Dedicated to building secure networks, reliable server architectures, and high-performance applications.
+
+---
+
+🎓 **Education**
+
+**Politeknik Negeri Lhokseumawe**  
+*Sarjana Terapan (D4) Teknologi Rekayasa Komputer Jaringan — Jurusan Teknologi Informasi dan Komputer*
 
 ---
 
